@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Yahya Ağar</h1>
+<h3 align="center">Software Engineer</h3>
 
-<!--
-**yahyagar/yahyagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Interested in software development, modern web technologies, and building user-focused digital products.
+</p>
 
-Here are some ideas to get you started:
+### Connect with Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://linkedin.com/in/yahya-ağar" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  </a>
+  <a href="mailto:yahya.agarr@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+  </a>
+</p>
+
+---
+
+### Technologies and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,angular,php,laravel,postgres,mysql,redis,docker,git,postman" />
+</p>
+
+---
